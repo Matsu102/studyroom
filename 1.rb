@@ -8,3 +8,5 @@ print add(1,2)
 puts ""
 
 puts add(1,2)
+
+# print は改行無しの出力
