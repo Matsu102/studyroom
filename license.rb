@@ -45,3 +45,6 @@
 # 11/12 基本情報技術者テキスト + 動画学習
 # 11/13 基本情報技術者テキスト + 動画学習・progate Java,Python 学習開始
 # 11/13 基本情報技術者テキスト + 動画学習・progate Java,Python,Command Line
+# 11/14 基本情報技術者テキスト + 動画学習・progate Java,Python,Command Line
+# 11/15 基本情報技術者テキスト + 動画学習・progate Java,Python,Command Line
+# 11/16 基本情報技術者テキスト + 動画学習・progate Java,Python,Command Line(完了)
